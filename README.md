@@ -23,6 +23,19 @@ Trend → Insight → Product Concept
   - Content hooks
   - Monetization strategies
 
+
+## AI Integration
+
+This project uses AI to transform raw trend data into structured business insights, including:
+
+- Product ideas
+- Marketing hooks
+- Subscription models
+
+The goal is to simulate how a fast-moving digital brand team can go from trend discovery to execution-ready ideas in minutes.
+I have integrated two models: OpenAI and Groq. I already ran out of credits on OpenAI, so it gives me the "insufficient quota" message every time. 😄
+
+
 ## Example Output
 
 - Trend: Belly Fat
@@ -38,7 +51,7 @@ This is intentionally lightweight — the goal is speed and iteration, not perfe
 
 ## Next Steps (If Expanded)
 
-- Connect to live APIs (Twitter/X, Reddit, Google Trends)
+- Connect to live APIs (Twitter/X, Reddit, Google Trends) ✅ 18/03/26 partially done (OpenAI and Groq, for now)
 - Use NLP for better keyword extraction (or OpenAI)
 - Add scoring system for idea validation
 - Auto-generate landing pages
